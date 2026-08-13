@@ -1,5 +1,5 @@
 // gameover
-if (instance_number(obj_brick <= 0)) 
+if (instance_number(obj_brick) <= 0) 
 {
 	room_restart();
 } 
