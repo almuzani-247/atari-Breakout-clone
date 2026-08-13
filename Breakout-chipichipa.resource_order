@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[
+    {"name":"fonts","order":4,"path":"folders/fonts.yy",},
+    {"name":"objects","order":2,"path":"folders/objects.yy",},
+    {"name":"sounds","order":3,"path":"folders/sounds.yy",},
+    {"name":"sprite","order":1,"path":"folders/sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_ball","order":2,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"obj_bar","order":1,"path":"objects/obj_bar/obj_bar.yy",},
+    {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
+    {"name":"brickbreak","order":1,"path":"sounds/brickbreak/brickbreak.yy",},
+    {"name":"spr_ball","order":1,"path":"sprites/spr_ball/spr_ball.yy",},
+    {"name":"spr_bar","order":2,"path":"sprites/spr_bar/spr_bar.yy",},
+    {"name":"spr_powers","order":3,"path":"sprites/spr_powers/spr_powers.yy",},
+  ],
+}
